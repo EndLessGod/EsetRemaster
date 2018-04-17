@@ -2,7 +2,7 @@
 
 ## نصب
 
-gitclone https://github.com/EndLessGod/EsetRemaster.git 
+gitclone https://github.com/MrRadsps/EsetRemaster.git 
 
 cd EsetRemaster
 
